@@ -1,4 +1,9 @@
 h1 {
     display: flex;
     justify-content: center;
+    color: #ffffff;
+}
+
+body {
+    background-color: #2980b9;
 }
